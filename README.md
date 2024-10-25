@@ -65,4 +65,4 @@
   <img align="center" alt="pk-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
   </div>
 
-  ![Snake Animation](https://github.com/PauloKildery/PauloKildery/blob/output/github-contribution-grid-snake.svg)
+  
