@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/images/banner.png" width="100%" alt="Paulo Kildery Banner">
+</p>
+
+<br>
+
 <h1 align="center">Olá, eu sou Paulo Kildery — PK 👋</h1>
 
 <h3 align="center">
