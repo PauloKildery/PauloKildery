@@ -126,10 +126,10 @@ Principais temas:
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=PauloKildery&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=PauloKildery&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
     alt="Estatísticas do GitHub de Paulo Kildery"
-  >
+    height="170"
+  />
 </p>
 
 ---
