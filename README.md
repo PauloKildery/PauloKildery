@@ -122,11 +122,20 @@ Principais temas:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Atividade no GitHub
+
+- Desenvolvimento contínuo do projeto **Infrastructure Labs**.
+- Laboratórios documentados com Git e GitHub.
+- Prática com branches, merges, resolução de conflitos e rebase.
+- Evolução planejada para Linux, Docker, Kubernetes, Python, Azure e automação.
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PauloKildery&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloKildery&layout=compact&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/PauloKildery?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Ver%20meus%20repositórios-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Repositórios de Paulo Kildery no GitHub"
+    />
+  </a>
 </p>
 
 ---
