@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/images/banner.png" width="100%" alt="Paulo Kildery Banner">
+  <img
+    src="./assets/images/banner.png"
+    alt="Banner profissional de Paulo Kildery"
+    width="100%"
+  />
 </p>
 
 <br>
